@@ -5456,11 +5456,11 @@
  }
 
  a:hover {
- 	color: #2c00ff;
+ 	color: #323232;
  }
 
  .cool-link {
- 	background-image: linear-gradient(transparent 88%, #2c00ff 12%);
+ 	background-image: linear-gradient(transparent 88%, #323232 12%);
  }
 
  /* Text Selection */
