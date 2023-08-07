@@ -1092,10 +1092,10 @@
 
  .home-bg-logo {
  	position: absolute;
- 	top: 15%;
+ 	top: 5%;
  	right: 0;
- 	height: 65%;
- 	width: 50%;
+ 	height: 85%;
+ 	width: 70%;
  	z-index: 2;
  	transform: translateX(101%);
  	user-select: none;
@@ -2060,7 +2060,7 @@
  /* BOXED */
  .boxed {
  	padding: calc(16px + 2vw);
- 	background: #f9f5ea;
+ 	border: 1px solid #000;
  }
 
  .boxed.is-dark {
